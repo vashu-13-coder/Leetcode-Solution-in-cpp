@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0231-power-of-two) |
+| [0367-valid-perfect-square](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0367-valid-perfect-square) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Divide and Conquer
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0367-valid-perfect-square) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Prefix Sum
 |  |
