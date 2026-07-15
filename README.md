@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0001-two-sum) |
 | [0724-find-pivot-index](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/1991-find-the-middle-index-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,4 +43,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0724-find-pivot-index) |
+| [1991-find-the-middle-index-in-array](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/1991-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
