@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0231-power-of-two) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Divide and Conquer
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0069-sqrtx) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Prefix Sum
 |  |
