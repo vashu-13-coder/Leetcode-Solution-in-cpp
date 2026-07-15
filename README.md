@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0001-two-sum) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0231-power-of-two) |
+## Binary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
