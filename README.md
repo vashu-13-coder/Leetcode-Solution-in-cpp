@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/1991-find-the-middle-index-in-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
