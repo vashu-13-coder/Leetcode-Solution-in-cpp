@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0001-two-sum) |
+| [0567-permutation-in-string](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0567-permutation-in-string) |
 ## Math
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
@@ -79,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
