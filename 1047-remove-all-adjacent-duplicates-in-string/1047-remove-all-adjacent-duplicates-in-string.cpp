@@ -4,8 +4,7 @@ public:
         int n = s.length();
         int i = 0;
         while ( i < n){
-            int j = i + 1;
-            if (s[i] == s[j]){
+            if (s[i] == s[i+1]){
                 s.erase(i , 2);
                 n = s.length();
                 i = 0;
