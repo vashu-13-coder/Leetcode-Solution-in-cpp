@@ -6,9 +6,6 @@ public:
         while ( i < n){
             int j = i + 1;
             if (s[i] == s[j]){
-                // while(j < n && s[i] == s[j]){
-                //     j++;
-                // }
                 s.erase(i , 2);
                 n = s.length();
                 i = 0;
