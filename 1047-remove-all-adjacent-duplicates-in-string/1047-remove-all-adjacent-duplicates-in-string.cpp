@@ -5,12 +5,11 @@ public:
         int i = 0;
         while ( i < n){
             int j = i + 1;
-            int start = j;
-            if ( j < n && s[i] == s[j]){
+            if (s[i] == s[j]){
                 while(j < n && s[i] == s[j]){
                     j++;
                 }
-                s.erase(start - 1 , 2);
+                s.erase(i , 2);
                 n = s.length();
                 i = 0;
             }
