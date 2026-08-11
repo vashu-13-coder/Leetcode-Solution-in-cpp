@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0189-rotate-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0191-number-of-1-bits) |
+| [0240-search-a-2d-matrix-ii](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0240-search-a-2d-matrix-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0240-search-a-2d-matrix-ii) |
 | [0367-valid-perfect-square](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0367-valid-perfect-square) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Prefix Sum
@@ -102,4 +105,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
