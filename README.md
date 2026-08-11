@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0001-two-sum) |
+| [0054-spiral-matrix](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0283-move-zeroes) |
@@ -85,9 +86,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0054-spiral-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0567-permutation-in-string) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
