@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0189-rotate-array) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0231-power-of-two) |
@@ -95,5 +97,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
