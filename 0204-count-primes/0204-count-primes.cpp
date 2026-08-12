@@ -8,7 +8,7 @@ public:
             if (prime[i]){
                 count++;
                 for(int j = 2 * i ; j < n; j += i){
-                    prime[j] = false;
+                    prime[j] = 0;
                 }
             }
         }
