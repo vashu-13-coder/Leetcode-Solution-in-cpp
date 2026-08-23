@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0268-missing-number) |
 | [0567-permutation-in-string](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0567-permutation-in-string) |
 ## Math
 |  |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0367-valid-perfect-square) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Divide and Conquer
@@ -48,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0268-missing-number) |
 | [1009-complement-of-base-10-integer](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/1009-complement-of-base-10-integer) |
 ## Recursion
 |  |
@@ -59,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0367-valid-perfect-square) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Prefix Sum
@@ -80,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
