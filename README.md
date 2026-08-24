@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0367-valid-perfect-square) |
+| [0509-fibonacci-number](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Divide and Conquer
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -136,4 +138,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0204-count-primes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
