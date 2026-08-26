@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0283-move-zeroes) |
+| [0704-binary-search](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0367-valid-perfect-square) |
+| [0704-binary-search](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Prefix Sum
 |  |
