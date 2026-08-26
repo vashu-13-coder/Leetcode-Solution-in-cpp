@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0074-search-a-2d-matrix) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vashu-13-coder/Leetcode-Solution-in-cpp/tree/master/0240-search-a-2d-matrix-ii) |
